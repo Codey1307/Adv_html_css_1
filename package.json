@@ -1,0 +1,29 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Korotieiev Dmytro FE-21",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codey1307/Adv_html_css_1.git"
+  },
+  "author": "codey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codey1307/Adv_html_css_1/issues"
+  },
+  "homepage": "https://github.com/Codey1307/Adv_html_css_1#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "eslint": "^8.44.0",
+    "gulp": "^4.0.2"
+  }
+}
